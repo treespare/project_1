@@ -1,0 +1,3 @@
+from_date,to_date,chapter,ledger_account,characteristic,balance_in_rub,balance_in_val,balance_in_total,turn_deb_rub,turn_deb_val,turn_deb_total,turn_cre_rub,turn_cre_val,turn_cre_total,balance_out_rub,balance_out_val,balance_out_total,account_rk
+2018-01-01,2018-01-31,,12345,A,,0,,,0,,,0,,,0,,2
+2018-01-01,2018-01-31,,12345,P,,0,,,0,,,0,,,0,,2
