@@ -1,76 +1,10 @@
-2025-01-14 03:14:22,698 - Запуск ETL процесса...
-2025-01-14 03:14:22,741 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:14:22,741 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-14 03:14:22,781 - Ошибка экспорта в CSV: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:14:22,824 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:14:22,824 - ETL процесс завершен успешно!
-2025-01-14 03:17:44,672 - Запуск ETL процесса...
-2025-01-14 03:17:44,716 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:17:44,717 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-14 03:17:44,756 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:17:44,794 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:17:44,795 - ETL процесс завершен успешно!
-2025-01-14 03:19:28,388 - Запуск ETL процесса...
-2025-01-14 03:19:28,432 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:19:28,432 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-14 03:19:28,471 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:19:28,509 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:19:28,510 - ETL процесс завершен успешно!
-2025-01-14 03:21:50,546 - Запуск ETL процесса...
-2025-01-14 03:21:50,589 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:21:50,589 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-14 03:21:50,627 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:21:50,666 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:21:50,666 - ETL процесс завершен успешно!
-2025-01-14 03:22:23,186 - Запуск ETL процесса...
-2025-01-14 03:22:23,230 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:22:23,230 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-14 03:22:23,269 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:22:23,307 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:22:23,307 - ETL процесс завершен успешно!
-2025-01-14 03:24:56,324 - Запуск ETL процесса...
-2025-01-14 03:24:56,367 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:24:56,367 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-14 03:24:56,405 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:24:56,443 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-14 03:24:56,443 - ETL процесс завершен успешно!
-2025-01-15 22:02:51,331 - Запуск ETL процесса...
-2025-01-15 22:02:51,381 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:02:51,381 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-15 22:02:51,422 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:02:51,465 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:02:51,465 - ETL процесс завершен успешно!
-2025-01-15 22:05:45,750 - Запуск ETL процесса...
-2025-01-15 22:05:45,794 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:05:45,794 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-15 22:05:45,834 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:05:45,873 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:05:45,873 - ETL процесс завершен успешно!
-2025-01-15 22:06:50,147 - Запуск ETL процесса...
-2025-01-15 22:06:50,199 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:06:50,199 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-15 22:06:50,254 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:06:50,298 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:06:50,298 - ETL процесс завершен успешно!
-2025-01-15 22:14:50,254 - Запуск ETL процесса...
-2025-01-15 22:14:50,299 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:14:50,299 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-15 22:14:50,338 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:14:50,383 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 22:14:50,383 - ETL процесс завершен успешно!
-2025-01-15 23:17:29,056 - Запуск ETL процесса...
-2025-01-15 23:17:29,100 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 23:17:29,100 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-15 23:17:29,138 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 23:17:29,288 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 23:17:29,288 - ETL процесс завершен успешно!
-2025-01-15 23:27:39,065 - Запуск ETL процесса...
-2025-01-15 23:27:39,107 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 23:27:39,107 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-15 23:27:39,145 - Ошибка экспорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 23:27:39,183 - Ошибка импорта данных: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 23:27:39,183 - ETL процесс завершен успешно!
-2025-01-15 23:32:07,703 - Запуск ETL процесса...
-2025-01-15 23:32:07,746 - Ошибка выполнения SQL: 'utf-8' codec can't decode byte 0xc2 in position 61: invalid continuation byte
-2025-01-15 23:32:07,747 - Витрина DM_F101_ROUND_F рассчитана.
-2025-01-15 23:55:39,488 - Импорт данных из файла E:\Treespare\Рабочий стол\Новая папка (6)\Проект 1\файлы\dm_f101_round_f.csv в таблицу DM.DM_F101_ROUND_F_V2 завершён.
+2025-01-19 15:39:30,268 - РРјРїРѕСЂС‚ РґР°РЅРЅС‹С… РёР· С„Р°Р№Р»Р° E:\Treespare\Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»\РќРѕРІР°СЏ РїР°РїРєР° (6)\РџСЂРѕРµРєС‚ 1\С„Р°Р№Р»С‹\dm_f101_round_f.csv РІ С‚Р°Р±Р»РёС†Сѓ DM.DM_F101_ROUND_F_V2 Р·Р°РІРµСЂС€С‘РЅ.
+2025-01-19 16:46:01,057 - РРјРїРѕСЂС‚ РґР°РЅРЅС‹С… РёР· С„Р°Р№Р»Р° E:\Treespare\Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»\РќРѕРІР°СЏ РїР°РїРєР° (6)\РџСЂРѕРµРєС‚ 1\С„Р°Р№Р»С‹\dm_f101_round_f.csv РІ С‚Р°Р±Р»РёС†Сѓ DM.DM_F101_ROUND_F_V2 Р·Р°РІРµСЂС€С‘РЅ.
+2025-01-19 17:26:55,634 - Р—Р°РїСѓСЃРє ETL РїСЂРѕС†РµСЃСЃР°...
+2025-01-19 17:26:55,678 - РћС€РёР±РєР° СЌРєСЃРїРѕСЂС‚Р° РґР°РЅРЅС‹С…: [Errno 13] Permission denied: 'E:/Treespare/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/РќРѕРІР°СЏ РїР°РїРєР° (6)/РџСЂРѕРµРєС‚ 1/С„Р°Р№Р»С‹/dm_f101_round_f.csv'
+2025-01-19 17:26:55,722 - Р”Р°РЅРЅС‹Рµ СѓСЃРїРµС€РЅРѕ РёРјРїРѕСЂС‚РёСЂРѕРІР°РЅС‹ РІ С‚Р°Р±Р»РёС†Сѓ DM.DM_F101_ROUND_F_V2.
+2025-01-19 17:26:55,722 - ETL РїСЂРѕС†РµСЃСЃ Р·Р°РІРµСЂС€РµРЅ СѓСЃРїРµС€РЅРѕ!
+2025-01-19 17:27:26,358 - Р—Р°РїСѓСЃРє ETL РїСЂРѕС†РµСЃСЃР°...
+2025-01-19 17:27:26,403 - Р”Р°РЅРЅС‹Рµ СѓСЃРїРµС€РЅРѕ СЌРєСЃРїРѕСЂС‚РёСЂРѕРІР°РЅС‹ РІ E:/Treespare/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/РќРѕРІР°СЏ РїР°РїРєР° (6)/РџСЂРѕРµРєС‚ 1/С„Р°Р№Р»С‹/dm_f101_round_f.csv.
+2025-01-19 17:27:26,446 - Р”Р°РЅРЅС‹Рµ СѓСЃРїРµС€РЅРѕ РёРјРїРѕСЂС‚РёСЂРѕРІР°РЅС‹ РІ С‚Р°Р±Р»РёС†Сѓ DM.DM_F101_ROUND_F_V2.
+2025-01-19 17:27:26,446 - ETL РїСЂРѕС†РµСЃСЃ Р·Р°РІРµСЂС€РµРЅ СѓСЃРїРµС€РЅРѕ!

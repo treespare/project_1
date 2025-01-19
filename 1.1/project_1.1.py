@@ -128,6 +128,7 @@ def load_csv_to_postgres(file_path, table_name):
 
 
 # Основная функция ETL
+# Основная функция ETL
 def run_etl():
     create_tables()
     time.sleep(2)  # Для разделения логов по времени
@@ -136,6 +137,8 @@ def run_etl():
     load_csv_to_postgres('E:/Treespare/Рабочий стол/Новая папка (6)/Проект 1/файлы/ft_balance_f.csv', 'FT_BALANCE_F')
     time.sleep(2)
     load_csv_to_postgres('E:/Treespare/Рабочий стол/Новая папка (6)/Проект 1/файлы/ft_posting_f.csv', 'FT_POSTING_F')
+    time.sleep(2)
+    load_csv_to_postgres('E:/Treespare/Рабочий стол/Новая папка (6)/Проект 1/файлы/md_account_d.csv', 'MD_ACCOUNT_D')
 
 
 if __name__ == "__main__":
